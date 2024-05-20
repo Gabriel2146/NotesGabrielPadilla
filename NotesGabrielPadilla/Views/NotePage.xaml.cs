@@ -1,4 +1,4 @@
-namespace NotesGabrielPadilla;
+namespace NotesGabrielPadilla.Views;
 
 public partial class NotePage : ContentPage
 {
