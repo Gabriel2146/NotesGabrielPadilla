@@ -56,6 +56,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\Captura de pantalla 2024-05-22 073845.png" />
+	  <None Remove="Resources\Images\Captura de pantalla 2024-05-22 073906.png" />
 	  <None Remove="Resources\Images\gato.jpg" />
 	  <None Remove="Resources\Images\icon_about.png" />
 	  <None Remove="Resources\Images\icon_about_ios.png" />
